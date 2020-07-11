@@ -6,8 +6,10 @@
 
 - 📚 Information Systems student.
 - 🔭 I’m currently an intern Teltools Tecnologia in Systems Analysis and Development.
-- 🌱 I’m currently learning more Spring Boot, Spring MVC, Sping Framework, REST APIs.  
+- 🌱 I’m currently learning more Java, Spring Boot, Spring MVC, Sping Framework, REST APIs.
+- 💙 In love with coding.
 - 💻 Techs: Java, PostgreSQL and Oracle SQL.
+- 🌍 Languages: Portuguese, English and Spanish.
 - 💬 Ask me about new technologies, frameworks, IoT.
 
 Let's connect on LinkedIn.
