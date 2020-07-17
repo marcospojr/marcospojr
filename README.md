@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcospojr13@gmail.com)](mailto:marcospojr13@gmail.com/)
 
 - 📚 Information Systems student.
-- 🔭 I’m currently an intern Teltools Tecnologia in Systems Analysis and Development.
+- 🔭 I’m currently an Intern Teltools Tecnologia in Systems Analysis and Development.
 - 🌱 I’m currently learning more Java, Spring Boot, Spring MVC, Sping Framework, REST APIs.
 - 💙 In love with coding.
 - 💻 Techs: Java, PostgreSQL and Oracle SQL.
