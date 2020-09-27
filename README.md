@@ -5,8 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcospojr13@gmail.com)](mailto:marcospojr13@gmail.com/)
 
 - 📚 Information Systems student.
-- 👨🏽‍💻 iOS Software Engineer.
-- 🏢 I’m currently an Intern at Teltools Tecnologia in Systems Analysis and Development.
+- 🏢 I’m currently an Intern at Teltools Tecnologia.
 - 🌱 I’m currently learning more Swift, iOS Development, Design Patterns, Software Architecture, Cocoa, REST APIs.
 - 💙 In love with coding.
 - 💻 Techs: Swift, Java, PostgreSQL and Oracle SQL.
